@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/test-lint-q-dep/static/css/main.5f361e03.chunk.css",
+    "main.js": "/test-lint-q-dep/static/js/main.fa1b0362.chunk.js",
+    "main.js.map": "/test-lint-q-dep/static/js/main.fa1b0362.chunk.js.map",
+    "runtime-main.js": "/test-lint-q-dep/static/js/runtime-main.322688b2.js",
+    "runtime-main.js.map": "/test-lint-q-dep/static/js/runtime-main.322688b2.js.map",
+    "static/js/2.0af6be41.chunk.js": "/test-lint-q-dep/static/js/2.0af6be41.chunk.js",
+    "static/js/2.0af6be41.chunk.js.map": "/test-lint-q-dep/static/js/2.0af6be41.chunk.js.map",
+    "index.html": "/test-lint-q-dep/index.html",
+    "precache-manifest.f45413deae6568fc79e59e6396c95c8d.js": "/test-lint-q-dep/precache-manifest.f45413deae6568fc79e59e6396c95c8d.js",
+    "service-worker.js": "/test-lint-q-dep/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/test-lint-q-dep/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.0af6be41.chunk.js.LICENSE.txt": "/test-lint-q-dep/static/js/2.0af6be41.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/test-lint-q-dep/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.322688b2.js",
+    "static/js/2.0af6be41.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.fa1b0362.chunk.js"
+  ]
+}
